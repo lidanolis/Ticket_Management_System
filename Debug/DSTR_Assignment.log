@@ -1,0 +1,33 @@
+﻿  DSTR_Assignment.cpp
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(510,21): warning C4101: 'deletedNode': unreferenced local variable
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(1880,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(1887,50): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(1890,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(1938,85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(1941,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(2790,35): warning C4018: '<': signed/unsigned mismatch
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(2818,31): warning C4018: '<': signed/unsigned mismatch
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(2838,39): warning C4018: '<': signed/unsigned mismatch
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3009,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3010,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3011,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3012,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3013,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3019,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3021,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3022,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3023,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3025,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3026,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3027,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3029,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3031,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3032,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3033,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3034,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3035,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(3036,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(2088): warning C4715: 'dataManagement::adminSelection': not all control paths return a value
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(1998): warning C4715: 'dataManagement::passengerSelection': not all control paths return a value
+D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\DSTR_Assignment.cpp(2856): warning C4715: 'dataManagement::icCheck': not all control paths return a value
+  DSTR_Assignment.vcxproj -> D:\ZzZ\Degree2\Sem2\DSTR\DSTR_Assignment\Debug\DSTR_Assignment.exe
